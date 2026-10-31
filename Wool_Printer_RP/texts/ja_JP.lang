@@ -1,0 +1,13 @@
+## Wool Printer (ja_JP)
+woolprinter.msg.no_pattern=§e[Wool Printer] 対応する色のブロックがありません
+woolprinter.msg.too_small=§e[Wool Printer] 型紙が小さすぎます(核の上下左右に羊毛・コンクリートを続けてください)
+woolprinter.msg.sphere_start=§a[Wool Printer] 球体(直径 %s)を印刷します
+woolprinter.msg.hemisphere_start=§a[Wool Printer] 半球(直径 %s)を印刷します
+woolprinter.msg.print_done=§a[Wool Printer] 印刷が終わりました
+woolprinter.msg.print_done_errors=§e[Wool Printer] 終了しましたが %s マス配置できませんでした(チャンク未読込の可能性)
+woolprinter.msg.area_warn=§e[Wool Printer] tickingareaを確保できませんでした。遠い部分が欠ける可能性があります
+woolprinter.msg.undo_done=§a[Wool Printer] 直前の印刷を元に戻しました
+woolprinter.msg.undo_none=§e[Wool Printer] 戻せる印刷がありません
+woolprinter.palette.title=§b[Wool Printer] 対応表(色 -> ブロック)
+woolprinter.palette.air=空気
+woolprinter.palette.note_core=※ 核の色(桃/赤紫/赤)は長さ用。球モードでは核は型紙の最頻ブロックになります

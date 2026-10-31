@@ -1,0 +1,13 @@
+## Wool Printer (en_US)
+woolprinter.msg.no_pattern=§e[Wool Printer] No matching color blocks found
+woolprinter.msg.too_small=§e[Wool Printer] Template is too small (continue wool/concrete out from the core in all four directions)
+woolprinter.msg.sphere_start=§a[Wool Printer] Printing a sphere (diameter %s)
+woolprinter.msg.hemisphere_start=§a[Wool Printer] Printing a hemisphere (diameter %s)
+woolprinter.msg.print_done=§a[Wool Printer] Done
+woolprinter.msg.print_done_errors=§e[Wool Printer] Done, but %s blocks could not be placed (chunks may not have been loaded)
+woolprinter.msg.area_warn=§e[Wool Printer] Could not reserve a ticking area; distant parts may be missing
+woolprinter.msg.undo_done=§a[Wool Printer] Undid the last print
+woolprinter.msg.undo_none=§e[Wool Printer] Nothing to undo
+woolprinter.palette.title=§b[Wool Printer] Palette (color -> block)
+woolprinter.palette.air=Air
+woolprinter.palette.note_core=* Core colors (pink/magenta/red) set the length. In sphere mode the core becomes the most common block in the template
