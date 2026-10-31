@@ -1,0 +1,31 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Wool Printer [012/BP]",
+    "description": "Print wool/concrete patterns as blocks. Glow Ink Sac on the core wool: extrude. Ink Sac: sphere (sneak: hemisphere).",
+    "uuid": "41bfe19a-c49e-4401-bded-c17ab0f944a2",
+    "version": [0, 1, 2],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "description": "Wool Printer Script",
+      "type": "script",
+      "language": "javascript",
+      "uuid": "ad00a036-458c-4282-96bb-3562b8ef6a08",
+      "version": [0, 1, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.9.0"
+    },
+    {
+      "uuid": "c3ed1b92-2a7c-45a8-9bc5-97d2ee8e092e",
+      "version": [0, 1, 2]
+    }
+  ],
+  "metadata": {}
+}
